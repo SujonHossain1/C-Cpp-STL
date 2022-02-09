@@ -103,7 +103,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+			"value" : "/private/var/folders/kf/ybg8xcks23gg8hb3vnf8xqbw0000gn/T/AppTranslocation/0C41CF05-C0FC-41B3-ADCF-6ED5BC0C7477/d/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cpack"
+			"value" : "/private/var/folders/kf/ybg8xcks23gg8hb3vnf8xqbw0000gn/T/AppTranslocation/0C41CF05-C0FC-41B3-ADCF-6ED5BC0C7477/d/CLion.app/Contents/bin/cmake/mac/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/ctest"
+			"value" : "/private/var/folders/kf/ybg8xcks23gg8hb3vnf8xqbw0000gn/T/AppTranslocation/0C41CF05-C0FC-41B3-ADCF-6ED5BC0C7477/d/CLion.app/Contents/bin/cmake/mac/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -571,7 +571,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Applications/CLion.app/Contents/bin/ninja/mac/ninja"
+			"value" : "/private/var/folders/kf/ybg8xcks23gg8hb3vnf8xqbw0000gn/T/AppTranslocation/0C41CF05-C0FC-41B3-ADCF-6ED5BC0C7477/d/CLion.app/Contents/bin/ninja/mac/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -839,7 +839,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21"
+			"value" : "/private/var/folders/kf/ybg8xcks23gg8hb3vnf8xqbw0000gn/T/AppTranslocation/0C41CF05-C0FC-41B3-ADCF-6ED5BC0C7477/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
