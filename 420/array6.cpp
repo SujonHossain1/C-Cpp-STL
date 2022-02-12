@@ -16,7 +16,7 @@ Pair found_min_max(int arr[], int low, int high){
         minmax.min = arr[high];
         return minmax;
     }
-    if(high == low + 1){ // if there is only one element
+    if(high == low + 1){
         if(arr[low] > arr[high]){
             minmax.max = arr[low];
             minmax.min = arr[high];

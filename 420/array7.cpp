@@ -16,6 +16,12 @@ int main(){
     int low  = 0;
     int r = sizeof(arr) / sizeof(arr[0]) - 1;
     int k = 3;
+    int yo[10];
+//    memset(yo, 2, 10);
+    memset(yo, 0, 10);
+   cout << "pops " << yo[0] << endl;
+
+
 
    int number = kthSmallest(arr, low, r, k);
    cout << number << endl;
